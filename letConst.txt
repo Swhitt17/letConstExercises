@@ -1,0 +1,5 @@
+const PI = 3.14159;
+var allows reassigning and redeclaring while let allows reassigning
+var allows reassigning and redeclaring while const does not allow either
+let allows reassigning while const does not
+ var can use variables before they are declared
